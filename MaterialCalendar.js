@@ -35,7 +35,7 @@ MaterialCalendarComponent.propTypes = {
 };
 
 const MaterialCalendar = requireNativeComponent(
-  `RNMaterialCalendar`,
+  `RNMaterialCalendarView`,
   MaterialCalendarComponent,
   {
     nativeOnly: {
